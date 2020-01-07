@@ -1,1 +1,1 @@
-# ghana-atlas
+# ce-hosting
